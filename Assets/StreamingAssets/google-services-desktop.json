@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475525455254",
+    "project_id": "minigame-617be",
+    "storage_bucket": "minigame-617be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475525455254:android:c8b9a7f44f324a260ad1b7",
+        "android_client_info": {
+          "package_name": "com.google.firebase.unity.database.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475525455254-vvu194tfn2qqsdugdvu8cficinc99jma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC21bB8oXs6OTQC86LyDc5zljZ9_LtoH08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475525455254-vvu194tfn2qqsdugdvu8cficinc99jma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">475525455254</string>
+  <string name="google_storage_bucket" translatable="false">minigame-617be.appspot.com</string>
+  <string name="project_id" translatable="false">minigame-617be</string>
+  <string name="google_api_key" translatable="false">AIzaSyC21bB8oXs6OTQC86LyDc5zljZ9_LtoH08</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC21bB8oXs6OTQC86LyDc5zljZ9_LtoH08</string>
+  <string name="google_app_id" translatable="false">1:475525455254:android:c8b9a7f44f324a260ad1b7</string>
+  <string name="default_web_client_id" translatable="false">475525455254-vvu194tfn2qqsdugdvu8cficinc99jma.apps.googleusercontent.com</string>
+</resources>
